@@ -1,0 +1,26 @@
+{
+    "name": "3dmodels",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "npx parcel ./src/index.html"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GitStudentSem/3DScens.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/GitStudentSem/3DScens/issues"
+    },
+    "homepage": "https://github.com/GitStudentSem/3DScens#readme",
+    "dependencies": {
+        "three": "^0.148.0"
+    },
+    "devDependencies": {
+        "parcel": "^2.8.3"
+    }
+}
