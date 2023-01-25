@@ -19,11 +19,8 @@ const camera = new THREE.PerspectiveCamera(
 
 const orbit = new OrbitControls(camera, renderer.domElement);
 
-camera.position.set(-90, 140, 140);
+camera.position.set(0, 0, 0);
 orbit.update();
-
-const ambientLight = new THREE.AmbientLight(0x333333);
-scene.add(ambientLight);
 
 function animate() {
     renderer.render(scene, camera);

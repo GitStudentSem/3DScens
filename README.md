@@ -12,9 +12,9 @@
 
 ### - npm install или npm i
 
-### - в терминале запустить команду которая указана в самом верху scripts.js (пример: npx parcel "./index.html")
+### - в терминале запустить команду npm start
 
-### - перейти на localHost который был открыт
+### - перейти на http://localhost:1234 который был открыт
 
 1. [Получение базовых основ работы с tree.js **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-1).
 
@@ -25,3 +25,5 @@
 3. [Лающая собака **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-3).
 
 4. [Плоскость реагирующая на движение мыши **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-4).
+
+5. [Предметы падающие по законам физики **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-5).
