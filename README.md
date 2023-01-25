@@ -16,10 +16,12 @@
 
 ### - перейти на localHost который был открыт
 
-1. [Получение базовых основ работы с tree.js](https://github.com/GitStudentSem/3DScens/tree/lesson-1).
+1. [Получение базовых основ работы с tree.js **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-1).
 
-2. [Модель солнечной системы](https://github.com/GitStudentSem/3DScens/tree/lesson-2)
+2. [Модель солнечной системы **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-2)
 
     - [Посмотреть демонстрацию](https://portfolio.semen-purnemcev.ru/solar-system/).
 
-3. [Лающая собака](https://github.com/GitStudentSem/3DScens/tree/lesson-3).
+3. [Лающая собака **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-3).
+
+4. [Плоскость реагирующая на движение мыши **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-4).
