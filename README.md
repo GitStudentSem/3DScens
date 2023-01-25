@@ -1,4 +1,6 @@
-# Здесь представлены различные 3D модели разложенные по отдельным веткам.
+# Здесь представлены различные 3D модели
+
+## Модели разложены по отдельным веткам
 
 ## Главня ветка является базовым каркасом для создания своих анимаций.
 
@@ -14,4 +16,6 @@
 
 ### - перейти на localHost который был открыт
 
--[Получение базовых основ работы с tree.js](https://github.com/GitStudentSem/3DScens/tree/lesson-1). -[Модель солнечной системы](https://github.com/GitStudentSem/3DScens/tree/lesson-1).
+-[Получение базовых основ работы с tree.js](https://github.com/GitStudentSem/3DScens/tree/lesson-1).
+
+-[Модель солнечной системы](https://github.com/GitStudentSem/3DScens/tree/lesson-2).
