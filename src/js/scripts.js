@@ -95,10 +95,40 @@ window.addEventListener("click", () => {
     if (!objectExist) {
         intersects.forEach((intersect) => {
             if (intersect.object.name === "ground") {
-                const sphereClone = sphereMesh.clone();
-                sphereClone.position.copy(hightlightMesh.position);
-                scene.add(sphereClone);
-                addedObects.push(sphereClone);
+                const meshes = [
+                    new THREE.Mesh(
+                        new THREE.SphereGeometry(0.4, 10, 10),
+                        new THREE.MeshBasicMaterial({
+                            wireframe: true,
+                            color: Math.random() * 0xffffff,
+                        })
+                    ),
+                    new THREE.Mesh(
+                        new THREE.BoxGeometry(0.4, 0.4, 0.4),
+                        new THREE.MeshBasicMaterial({
+                            wireframe: true,
+                            color: Math.random() * 0xffffff,
+                        })
+                    ),
+                    new THREE.Mesh(
+                        new THREE.CylinderGeometry(0.6, 0.6, 0.2, 5),
+                        new THREE.MeshBasicMaterial({
+                            wireframe: true,
+                            color: Math.random() * 0xffffff,
+                        })
+                    ),
+                    new THREE.Mesh(
+                        new THREE.ConeGeometry(0.4, 1, 10),
+                        new THREE.MeshBasicMaterial({
+                            wireframe: true,
+                            color: Math.random() * 0xffffff,
+                        })
+                    ),
+                ];
+                const randomindex = Math.floor(Math.random() * meshes.length);
+                meshes[randomindex].position.copy(hightlightMesh.position);
+                scene.add(meshes[randomindex]);
+                addedObects.push(meshes[randomindex]);
                 hightlightMesh.material.color.setHex(0xff0000);
             }
         });
