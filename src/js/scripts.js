@@ -1,6 +1,5 @@
 // npx parcel ./index.html
 import * as THREE from "three";
-import { ObjectSpaceNormalMap } from "three";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js";
 
 const renderer = new THREE.WebGLRenderer();
