@@ -20,7 +20,7 @@
 
 2. [Модель солнечной системы **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-2).
 
-    - [Посмотреть демонстрацию](https://portfolio.semen-purnemcev.ru/solar-system/).
+    - [Посмотреть демонстрацию](https://portfolio.semen-purnemcev.ru/3D-models/solar-system/).
 
 3. [Лающая собака **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-3).
 
