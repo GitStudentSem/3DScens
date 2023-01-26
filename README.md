@@ -28,5 +28,5 @@
 
 5. [Предметы падающие по законам физики **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-5).
 
-6. [создание шариков по клику, объекты имеют физику поведения падения и столкновений **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-6).
-    - [Посмотреть демонстрацию](https://portfolio.semen-purnemcev.ru/solar-system/).
+6. [Cоздание шариков по клику, объекты имеют физику поведения падения и столкновений **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-6).
+    - [Посмотреть демонстрацию](https://portfolio.semen-purnemcev.ru/3D-models/dropSphere/).
