@@ -30,5 +30,9 @@
 
 6. [Cоздание шариков по клику, объекты имеют физику поведения падения и столкновений **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-6).
 
-7. [Падающие попрыгунчики, создающиеся по клику **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-6).
+7. [Падающие попрыгунчики, создающиеся по клику **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-7).
+
+    - [Посмотреть демонстрацию](https://portfolio.semen-purnemcev.ru/3D-models/dropSphere/).
+
+8. [создание объектов на плоскости по клику **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-8).
     - [Посмотреть демонстрацию](https://portfolio.semen-purnemcev.ru/3D-models/dropSphere/).
