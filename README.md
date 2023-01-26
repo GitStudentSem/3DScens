@@ -34,5 +34,5 @@
 
     - [Посмотреть демонстрацию](https://portfolio.semen-purnemcev.ru/3D-models/dropSphere/).
 
-8. [создание объектов на плоскости по клику **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-8).
-    - [Посмотреть демонстрацию](https://portfolio.semen-purnemcev.ru/3D-models/dropSphere/).
+8. [Cоздание объектов на плоскости по клику **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-8).
+    - [Посмотреть демонстрацию](https://portfolio.semen-purnemcev.ru/3D-models/objectOnPlane/).
