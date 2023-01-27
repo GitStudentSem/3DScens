@@ -39,3 +39,4 @@
     - [Посмотреть демонстрацию](https://portfolio.semen-purnemcev.ru/3D-models/objectOnPlane/).
 
 9. [Модель ослика, вы можете менять его расцветку в интерфейсе **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-9).
+10. [создание анимированных оленей на плоскости по клику **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-10).
