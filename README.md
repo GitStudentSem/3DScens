@@ -35,4 +35,7 @@
     - [Посмотреть демонстрацию](https://portfolio.semen-purnemcev.ru/3D-models/dropSphere/).
 
 8. [Cоздание объектов на плоскости по клику **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-8).
+
     - [Посмотреть демонстрацию](https://portfolio.semen-purnemcev.ru/3D-models/objectOnPlane/).
+
+9. [Модель ослика, вы можете менять его расцветку в интерфейсе **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-9).
