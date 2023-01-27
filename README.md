@@ -39,4 +39,10 @@
     - [Посмотреть демонстрацию](https://portfolio.semen-purnemcev.ru/3D-models/objectOnPlane/).
 
 9. [Модель ослика, вы можете менять его расцветку в интерфейсе **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-9).
-10. [создание анимированных оленей на плоскости по клику **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-10).
+
+10. [Создание анимированных оленей на плоскости по клику **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-10).
+
+11. [Зеркальные шарики внутри комнаты **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-11).
+    Загрузка текстур может занять некоторое время текстура весом 70мб
+    Работоспособность на мобильных устройствах не гарантируется.
+    - [Посмотреть демонстрацию](https://portfolio.semen-purnemcev.ru/3D-models/sphereInRoom/).
