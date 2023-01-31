@@ -45,5 +45,9 @@
 11. [Зеркальные шарики внутри комнаты **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-11).
     Загрузка текстур может занять некоторое время текстура весом 70мб.
     Работоспособность на мобильных устройствах не гарантируется.
+
     - [Посмотреть демонстрацию](https://portfolio.semen-purnemcev.ru/3D-models/sphereInRoom/).
-12. [автоматическое перемещение камеры по заданным координатам **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-15).
+
+12. [Fвтоматическое перемещение камеры по заданным координатам **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-15).
+
+13. [Перемещеие камеры по выставочному залу **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-16).
