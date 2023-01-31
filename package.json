@@ -1,19 +1,23 @@
 {
-    "name": "raymarching",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "start": "npx parcel ./src/index.html"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "devDependencies": {
-        "parcel": "^2.8.3"
-    },
-    "dependencies": {
-        "dat.gui": "^0.7.9",
-        "three": "^0.148.0"
-    }
+  "name": "raymarching",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx parcel ./src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/config-default": "^2.8.3",
+    "parcel": "^2.8.3",
+    "parcel-reporter-static-files-copy": "^1.5.0"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "gsap": "^3.11.4",
+    "three": "^0.148.0"
+  },
+  "staticFiles": {"staticOutPath": "assets"}
 }
