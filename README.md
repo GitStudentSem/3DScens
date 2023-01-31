@@ -6,21 +6,21 @@
 
 ## для запуска вам потребуется выполнить следующие шаги:
 
--   Перейти по ссылке с интересующим вас проектом
+- Перейти по ссылке с интересующим вас проектом
 
--   git clone linkToRepository
+- git clone linkToRepository
 
--   npm install или npm i
+- npm install или npm i
 
--   в терминале запустить команду npm start
+- в терминале запустить команду npm start
 
--   перейти на http://localhost:1234 который был открыт
+- перейти на http://localhost:1234 который был открыт
 
 1. [Получение базовых основ работы с tree.js **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-1).
 
 2. [Модель солнечной системы **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-2).
 
-    - [Посмотреть демонстрацию](https://portfolio.semen-purnemcev.ru/3D-models/solar-system/).
+   - [Посмотреть демонстрацию](https://portfolio.semen-purnemcev.ru/3D-models/solar-system/).
 
 3. [Лающая собака **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-3).
 
@@ -32,11 +32,11 @@
 
 7. [Падающие попрыгунчики, создающиеся по клику **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-7).
 
-    - [Посмотреть демонстрацию](https://portfolio.semen-purnemcev.ru/3D-models/dropSphere/).
+   - [Посмотреть демонстрацию](https://portfolio.semen-purnemcev.ru/3D-models/dropSphere/).
 
 8. [Cоздание объектов на плоскости по клику **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-8).
 
-    - [Посмотреть демонстрацию](https://portfolio.semen-purnemcev.ru/3D-models/objectOnPlane/).
+   - [Посмотреть демонстрацию](https://portfolio.semen-purnemcev.ru/3D-models/objectOnPlane/).
 
 9. [Модель ослика, вы можете менять его расцветку в интерфейсе **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-9).
 
@@ -46,3 +46,4 @@
     Загрузка текстур может занять некоторое время текстура весом 70мб.
     Работоспособность на мобильных устройствах не гарантируется.
     - [Посмотреть демонстрацию](https://portfolio.semen-purnemcev.ru/3D-models/sphereInRoom/).
+12. [автоматическое перемещение камеры по заданным координатам **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-15).
