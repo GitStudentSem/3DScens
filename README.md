@@ -51,3 +51,5 @@
 12. [Fвтоматическое перемещение камеры по заданным координатам **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-15).
 
 13. [Перемещеие камеры по выставочному залу **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-16).
+
+14. [Исскуственный интелект передвигающий конус по траектории **SRC**](https://github.com/GitStudentSem/3DScens/tree/lesson-17).
